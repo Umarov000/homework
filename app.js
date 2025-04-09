@@ -7,3 +7,5 @@ function func(arr){
     }
 }
 func()
+
+console.log("object");
